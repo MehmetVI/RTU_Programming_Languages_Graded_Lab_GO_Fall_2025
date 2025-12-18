@@ -1,1 +1,5 @@
-# RTU_Programming_Languages_Graded_Lab_GO_Fall_2025
+# GoSort (Concurrent Chunk Sorting) - Mode -r
+
+## Run
+```bash
+go run . -r 20
