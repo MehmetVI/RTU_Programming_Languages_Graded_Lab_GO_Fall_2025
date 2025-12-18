@@ -12,6 +12,9 @@ import (
 	"time"
 )
 
+// Name: Mehmet Kaan ULU
+// Student ID: 231ADB102
+
 // -----------------------------
 // Entry point
 // -----------------------------
